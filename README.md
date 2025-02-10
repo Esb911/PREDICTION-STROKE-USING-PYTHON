@@ -1,4 +1,4 @@
-PREDICTION STROKE USING PYTHON
+# **PREDICTION STROKE USING PYTHON**
 
 
 This project aims to build a stroke prediction model using Python and machine learning techniques. By analyzing medical and lifestyle-related data, the model helps identify individuals at risk of stroke.
@@ -7,7 +7,7 @@ This project aims to build a stroke prediction model using Python and machine le
 
 
 
-Key Features
+**Key Features**
 
 
 ✅ Data Analysis – Explore and visualize data to understand stroke-related factors.
@@ -25,7 +25,7 @@ Key Features
 
 
 
-Dataset
+**Dataset**
 
 
 The dataset used is healthcare-dataset-stroke-data.csv, which contains medical information such as:
@@ -39,7 +39,7 @@ Body Mass Index (BMI), average glucose level
 
 Smoking history
 
-Technologies & Libraries Used
+**Technologies & Libraries Used**
 
 📌 Python
 
@@ -52,7 +52,7 @@ Technologies & Libraries Used
 📌 mpl_toolkits (3D Visualization) – For advanced data visualization
 
 
-Here’s a breakdown of the required packages:
+**Here’s a breakdown of the required packages:**
 
 1. pandas → pip install pandas
 2. numpy → pip install numpy

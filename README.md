@@ -1,11 +1,21 @@
 PREDICTION STROKE USING PYTHON
+
+
 This project aims to build a stroke prediction model using Python and machine learning techniques. By analyzing medical and lifestyle-related data, the model helps identify individuals at risk of stroke.
 
+
+
 Key Features
+
+
 ✅ Data Analysis – Explore and visualize data to understand stroke-related factors.
+
 ✅ Data Preprocessing – Clean the dataset, handle missing values, and encode categorical variables.
+
 ✅ Feature Engineering – Select relevant features to enhance model accuracy.
+
 ✅ Machine Learning Models – Utilize algorithms like Decision Tree and Random Forest for stroke prediction.
+
 ✅ Model Evaluation – Assess model performance using accuracy, precision, recall, F1-score, and confusion matrix.
 
 Dataset

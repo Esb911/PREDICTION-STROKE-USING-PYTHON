@@ -18,18 +18,32 @@ Key Features
 
 ✅ Model Evaluation – Assess model performance using accuracy, precision, recall, F1-score, and confusion matrix.
 
+
+
 Dataset
+
+
 The dataset used is healthcare-dataset-stroke-data.csv, which contains medical information such as:
 
+
 Age, gender, hypertension, heart disease
+
 Marital status, work type, residence type
+
 Body Mass Index (BMI), average glucose level
+
 Smoking history
+
 Technologies & Libraries Used
+
 📌 Python
+
 📌 Pandas & NumPy – Data manipulation and analysis
+
 📌 Matplotlib & Seaborn – Data visualization
+
 📌 Scikit-Learn – Preprocessing, model training, and evaluation
+
 📌 mpl_toolkits (3D Visualization) – For advanced data visualization
 
 

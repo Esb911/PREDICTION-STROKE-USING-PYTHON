@@ -5,6 +5,8 @@ This project aims to build a stroke prediction model using Python and machine le
 
 
 
+
+
 Key Features
 
 
@@ -17,6 +19,9 @@ Key Features
 ✅ Machine Learning Models – Utilize algorithms like Decision Tree and Random Forest for stroke prediction.
 
 ✅ Model Evaluation – Assess model performance using accuracy, precision, recall, F1-score, and confusion matrix.
+
+
+
 
 
 

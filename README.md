@@ -61,3 +61,6 @@ Smoking history
 5. seaborn → pip install seaborn
 6. scikit-learn (sklearn) → pip install scikit-learn
 7. mpl_toolkits (Axes3D) → Included in matplotlib, so installing matplotlib is enough.
+
+
+**This project is licensed under GPL 3.0. Unauthorized copying, modification, or redistribution without proper attribution is prohibited. Legal action may be taken against violators.**
